@@ -7,7 +7,7 @@ Requirements & Setup
 1. **Python 3.x** installed.
 2. **Install External Library:** `python3 -m pip install tabulate`
 3. **Run the application:**
-   `python3 calculatorstudent.py`
+   `python3 calculatorbudget.py`
 
 Main Features
 * **Detailed Registration:** Input for income/expense categories and amounts.
